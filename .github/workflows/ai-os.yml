@@ -78,7 +78,7 @@ jobs:
       - uses: actions/setup-dotnet@v6
         with: { dotnet-version: 11.0.x }
       - run: dotnet publish packages/ai-os/native/ai-os-windows/AiOs.Service.csproj -c Release -o out/ai-os-service
-      - uses: actions/upload-artifact@v5
+      - uses: actions/upload-artifact@v7
         with:
           name: ai-os-service
           retention-days: 14
