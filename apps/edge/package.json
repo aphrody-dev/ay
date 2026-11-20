@@ -9,7 +9,7 @@
     "dry-run": "wrangler deploy --dry-run"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "5.20261115.1",
-    "wrangler": "4.162.0"
+    "@cloudflare/workers-types": "5.20261117.1",
+    "wrangler": "4.164.0"
   }
 }
