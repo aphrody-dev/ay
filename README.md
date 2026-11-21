@@ -1,3 +1,5 @@
+> **Moved.** This repository is archived: its code and full history live in [aphrody-labs/fw](https://github.com/aphrody-labs/fw) under `ay/` (root workspaces, `release.toml` and the release tools are at the fw root). Issues and pull requests go to aphrody-labs/fw.
+
 # ay
 
 The SDK of Aphrody and the registry of its workspace: the C ABI and the freestanding corelib, the design tokens, the cloud and edge tooling (Cloudflare, Vercel, Bun), the reverse-engineering suite, the Auto product and the workspace orchestration over the sibling repositories (`fw`, `aphrody`, `nie`, `shenron`, ...). Names and domains come from `ay.toml`; the agent contract, including the dependency direction between repositories, is `AGENTS.md`.
